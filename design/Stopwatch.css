@@ -1,0 +1,99 @@
+.Mobile {
+  position: relative;
+  width: 411px;
+  height: 731px;
+
+  background: #0d2820;
+}
+/* header */
+
+.header {
+  position: absolute;
+  width: 411px;
+  height: 55px;
+  left: 0px;
+  top: 0px;
+
+  background: #77a295;
+}
+
+/* menu */
+
+.menu {
+  position: absolute;
+  width: 68px;
+  height: 55px;
+  left: 0px;
+  top: 0px;
+}
+
+/* timer display */
+
+.timer {
+  position: absolute;
+  width: 333px;
+  height: 80px;
+  left: 39px;
+  top: 180px;
+
+  border: 3px solid #77a295;
+  box-sizing: border-box;
+  border-radius: 20px;
+}
+/* timer text */
+
+.timerText {
+  position: absolute;
+  width: 231px;
+  height: 56px;
+  left: 94px;
+  top: 192px;
+
+  font-family: Roboto Mono;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 48px;
+  line-height: 56px;
+
+  color: #ffffff;
+}
+
+/* button */
+
+.button {
+  position: absolute;
+  width: 94px;
+  height: 43px;
+  left: 54px;
+  top: 286px;
+}
+
+/* overlay-menu */
+
+.overlayMenu {
+  position: absolute;
+  width: 314px;
+  height: 731px;
+  left: 0px;
+  top: 0px;
+
+  background: rgba(15, 79, 59, 0.88);
+}
+
+/* menuItems */
+
+.menuItems {
+  position: absolute;
+  width: 159px;
+  height: 28px;
+  left: 38px;
+  top: 55px;
+
+  font-family: Roboto Mono;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 28px;
+
+  color: #ffffff;
+}
